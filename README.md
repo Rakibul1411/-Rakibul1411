@@ -84,21 +84,30 @@ I'm a passionate Software Engineering student at the **Institute of Information 
 </p>
 </details>
 
-## 📊 GitHub Statistics
+## 🌟 GitHub Analytics Dashboard
 
-<div align="center" style="display: flex; flex-direction: column; gap: 10px;">
+<div align="center" style="display: flex; flex-direction: column; gap: 16px;">
 
-<!-- Profile Details -->
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakibul1411&theme=tokyonight&hide_border=true)
+<!-- Profile Header with Gradient -->
+<div style="background: linear-gradient(135deg, #6e45e2 0%, #89d4cf 100%); padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <h2 style="color: white; margin: 0;">Rakibul's Development Journey</h2>
+</div>
 
-<!-- Stats Cards -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakibul1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul1411&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+<!-- Profile Details Card -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakibul1411&theme=radical&hide_border=true)
+
+<!-- Stats Cards with Hover Effects -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakibul1411&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub Stats" height="180" style="border-radius: 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul1411&layout=compact&theme=radical&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Top Languages" height="180" style="border-radius: 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul1411&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<!-- Corrected Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakibul1411&theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true&area_color=ff79c6&line=bd93f9&point=50fa7b&color=ffffff" alt="Activity Graph" style="border-radius: 12px;"/>
 
 </div>
 
