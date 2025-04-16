@@ -1,4 +1,5 @@
- # Rakibul1411
+ # Assalamualikum, I'm Rakibul Islam
+ # A Software Engineering Student from IIT,DU
  
  ## 🌐 Socials:
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rakibalnatiq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rakibul-islam-33a706270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bsse1411@iit.du.ac.bd) 
