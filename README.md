@@ -1,30 +1,71 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Rakibul1411&color=blue&style=flat-square" alt="Profile Views" />
+</div>
+
 <h1 align="center">Assalamu Alaikum 👋 I'm Md. Rakibul Islam</h1>
 <h3 align="center">Software Engineering Undergraduate | Bangladesh</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Rakibul1411&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+<br><br>
+<img align="right" width="350" height="200" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF" />
 
-## 💫 About Me
 
+## About Me
 I'm a passionate Software Engineering student at the **Institute of Information Technology, University of Dhaka**, with expertise in full-stack development. My technical journey focuses on:
 
 - 🌱 Currently exploring Machine Learning, Distributed Systems, and AI
 - 🚀 Continuously improving my skills in DSA and system design
 - 📫 How to reach me bsse1411@iit.du.ac.bd
 
-<div align="left">
-  <h2 align="left">Connect with me:</h2>
+<br>
+
+## Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/md-rakibul-islam-33a706270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rakibul-islam-33a706270" height="30" width="40" /></a>
+<a href="https://fb.com/rakibalnatiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibalnatiq" height="30" width="40" /></a>
+</p> <br>
+
+## GitHub Stats
+
+###
+
+<div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rakibul-islam-33a706270)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsse1411@iit.du.ac.bd)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakibul1411&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakibul1411&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rakibul1411&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakibul1411&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rakibul1411&theme=merko&utcOffset=8)
 </div>
 
+###
 
-## 🛠️ Tech Stack
+<h3 align="center">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rakibul1411&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="center">🔝 Top Contributed Repo :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Rakibul1411&limit=4&theme=merko&combine_all_yearly_contributions=true" align="center" height="220" alt="Top Contributed Repo"  />
+</div>
+
+<br>
+
+###
+
+## 🛠️ Skills & Expertise:
 
 <details open>
-<summary><b>Languages</b></summary>
+<summary><b>Programming Languages</b></summary>
 <br>
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -37,7 +78,7 @@ I'm a passionate Software Engineering student at the **Institute of Information 
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Frontend</b></summary>
 <br>
 <p>
@@ -48,7 +89,7 @@ I'm a passionate Software Engineering student at the **Institute of Information 
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Backend</b></summary>
 <br>
 <p>
@@ -59,7 +100,7 @@ I'm a passionate Software Engineering student at the **Institute of Information 
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Mobile & Database</b></summary>
 <br>
 <p>
@@ -69,7 +110,7 @@ I'm a passionate Software Engineering student at the **Institute of Information 
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Tools & Environment</b></summary>
 <br>
 <p>
@@ -84,32 +125,7 @@ I'm a passionate Software Engineering student at the **Institute of Information 
 </p>
 </details>
 
-## 🌟 GitHub Analytics Dashboard
-
-<div align="center" style="display: flex; flex-direction: column; gap: 16px;">
-
-<!-- Profile Header with Gradient -->
-<div style="background: linear-gradient(135deg, #6e45e2 0%, #89d4cf 100%); padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <h2 style="color: white; margin: 0;">Rakibul's Development Journey</h2>
-</div>
-
-<!-- Profile Details Card -->
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakibul1411&theme=radical&hide_border=true)
-
-<!-- Stats Cards with Hover Effects -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakibul1411&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub Stats" height="180" style="border-radius: 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul1411&layout=compact&theme=radical&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Top Languages" height="180" style="border-radius: 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
-</div>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul1411&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<!-- Corrected Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakibul1411&theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true&area_color=ff79c6&line=bd93f9&point=50fa7b&color=ffffff" alt="Activity Graph" style="border-radius: 12px;"/>
-
-</div>
+<br>
 
 ## 📫 Let's Connect!
 
