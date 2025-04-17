@@ -5,9 +5,7 @@
 <h1 align="center">Assalamu Alaikum 👋 I'm Md. Rakibul Islam</h1>
 <h3 align="center">Software Engineering Undergraduate | Bangladesh</h3>
 
-<br><br>
-<img align="right" width="350" height="200" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF" />
-
+<img align="right" width="350" height="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## About Me
 I'm a passionate Software Engineering student at the **Institute of Information Technology, University of Dhaka**, with expertise in full-stack development. My technical journey focuses on:
