@@ -12,6 +12,7 @@ I'm a passionate Software Engineering student at the **Institute of Information 
 
 - 🌱 Currently exploring Machine Learning, Distributed Systems, and AI
 - 🚀 Continuously improving my skills in DSA and system design
+- 👨‍💻 My recent projects are available at [Portfolio](https://rakibul-portfolio-14.vercel.app/)
 - 📫 How to reach me bsse1411@iit.du.ac.bd
 
 <br>
