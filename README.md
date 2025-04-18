@@ -134,6 +134,6 @@ I'm a passionate Software Engineering student at the **Institute of Information 
   
   [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rakibul-islam-33a706270)
   [![Email](https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsse1411@iit.du.ac.bd)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rakibul-portfolio-14.vercel.app/)
   
 </div>
